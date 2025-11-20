@@ -1,0 +1,15 @@
+# Python venv
+myenv/
+venv/
+.env
+*.env
+
+# Streamlit
+.streamlit/
+
+# Cache
+__pycache__/
+*.pyc
+
+# OS junk
+.DS_Store
